@@ -194,6 +194,9 @@ body {
 </head>
 <body>
     <div class="container">
+
+	<h3>Git Changes</h3>
+
 	<p id="success"></p>
         <div class="table-wrapper">
             <div class="table-title">
