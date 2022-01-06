@@ -195,8 +195,7 @@ body {
 <body>
     <div class="container">
 
-	<h3>Git Changes</h3>
-	<h2>new line</h2>
+	<h2>CURD Ops</h2>
 
 	<p id="success"></p>
         <div class="table-wrapper">
